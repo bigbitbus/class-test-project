@@ -8,4 +8,4 @@ We added more text to the file.
 
 # Chapter 3
 
-This is my super new feature
+This is my super new feature - This is the master's edit.
