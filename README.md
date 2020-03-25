@@ -6,3 +6,6 @@ We entered some text here.
 
 We added more text to the file.
 
+# Chapter 3
+
+This is my super new feature
